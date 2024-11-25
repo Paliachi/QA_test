@@ -1,5 +1,3 @@
-package QA_test;
-
 // 3d algorithm
 public class Length {
     public static void main(String[] args) {
